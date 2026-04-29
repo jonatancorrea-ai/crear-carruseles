@@ -1,13 +1,17 @@
 ---
-Skill: Crear Carruseles
+Autor: Jonatan Correa | Consultor y Divugador IA
+Skill: Crear Carruseles IG
 ---
 
-# Crear Carruseles
+# Crear Carruseles Instagram
 
-Skill de Claude AI para crear carruseles verticales profesionales para Instagram en PNG.
+Skill para crear carruseles verticales profesionales para Instagram en PNG, slide por slide.
 
-[![Abrir skill](https://img.shields.io/badge/Abrir%20skill-0f071e?style=for-the-badge&logoColor=f7f7f7)](carruseles/skill-crear-carruseles.md)
-[![Serie CLAUDE 101](https://img.shields.io/badge/Serie%20CLAUDE%20101-0f071e?style=for-the-badge&logoColor=f7f7f7)](https://jonatancorrea-ai.github.io/serie-claude-101-recursos/)
+## Acciones
+
+[![Ver y descargar la skill](https://img.shields.io/badge/Ver%20y%20copiar%20la%20skill-0f071e?style=for-the-badge&logoColor=f7f7f7)](https://github.com/jonatancorrea-ai/crear-carruseles/blob/main/carruseles/skill-crear-carruseles.md)
+
+[![Ver serie completa CLAUDE 101](https://img.shields.io/badge/Ver%20serie%20CLAUDE%20101-0f071e?style=for-the-badge&logoColor=f7f7f7)](https://jonatancorrea-ai.github.io/serie-claude-101-recursos/)
 
 ## Flujo de la skill
 
